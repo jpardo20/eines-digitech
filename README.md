@@ -30,3 +30,8 @@
 ### Apache OpenOffice 4.1.15
 
 [Descargar Apache OpenOffice](https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/es/Apache_OpenOffice_4.1.15_Win_x86_install_es.exe/download)
+
+
+
+### Descargar Cisco Packet Tracer
+Para obtener e instalar su copia de Cisco Packet Tracer, siga las instrucciones del siguiente enlace: [Cisco Packet Tracer](https://www.netacad.com/resources/lab-downloads)
