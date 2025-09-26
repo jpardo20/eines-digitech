@@ -43,7 +43,7 @@ Para obtener e instalar su copia de Cisco Packet Tracer, siga las instrucciones 
 
 [Python Releases for Windows](https://www.python.org/downloads/windows/)
 
-[Latest Python 3 Release - Python 3.13.7](https://www.python.org/downloads/release/python-3137/)
+[Latest Python 3 Release - Python 3.13.7 (python-3.13.7-amd64.exe)](https://www.python.org/ftp/python/3.13.7/python-3.13.7-amd64.exe)
 
 [Python Tutorial (w3schools.com)](https://www.w3schools.com/python/default.asp)
 
