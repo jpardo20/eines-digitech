@@ -35,3 +35,16 @@
 
 ### Descargar Cisco Packet Tracer
 Para obtener e instalar su copia de Cisco Packet Tracer, siga las instrucciones del siguiente enlace: [Cisco Packet Tracer](https://www.netacad.com/resources/lab-downloads)
+
+
+### Python
+
+[python.org](https://www.python.org/)
+
+[Python Releases for Windows](https://www.python.org/downloads/windows/)
+
+[Latest Python 3 Release - Python 3.13.7](https://www.python.org/downloads/release/python-3137/)
+
+[Python Tutorial (w3schools.com)](https://www.w3schools.com/python/default.asp)
+
+[Python 3.13.7 online documentation](https://docs.python.org/3/)
