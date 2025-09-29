@@ -52,5 +52,7 @@ Para obtener e instalar su copia de Cisco Packet Tracer, siga las instrucciones 
 ### 0221 — Muntatge i Manteniment d’Equips
 
 [fp_smx_m01_material_paper.pdf](./docs/fp_smx_m01_material_paper.pdf)
+
 [montaje-y-mantenimiento-de-equipos-2012.pdf](./docs/montaje-y-mantenimiento-de-equipos-2012.pdf)
+
 [SMX-Montaje-y-mantenimiento-de-equipos-Editex.pdf](./docs/SMX-Montaje-y-mantenimiento-de-equipos-Editex.pdf)
