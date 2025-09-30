@@ -18,6 +18,42 @@
 
 ----
 
+## Instal·lació Docker
+
+# 1) Paquets
+```bash
+sudo apt-get update
+sudo apt-get install -y ca-certificates curl gnupg
+```
+
+# 2) Clau i repo Docker
+
+```bash
+sudo install -m 0755 -d /etc/apt/keyrings
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+echo \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] \
+  https://download.docker.com/linux/ubuntu $(. /etc/os-release; echo $UBUNTU_CODENAME) stable" \
+  | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+```
+
+# 3) Instal·la i habilita
+
+```bash
+sudo apt-get update
+sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+```
+
+# 4) Executar sense sudo
+
+```bash
+sudo usermod -aG docker "$USER"
+```
+
+# (Tancar sessió i tornar a entrar)
+
+----
+
 ### Alpine distribution
 
 * Similar to standard. Slimmed down kernel. Optimized for virtual systems.
